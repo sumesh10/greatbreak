@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/shadowl"/>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:bottomLeftRadius="40dp" android:bottomRightRadius="40dp"/>
+            <gradient android:angle="90"
+                android:startColor="@color/yellow"
+                android:centerColor="@color/yellow"
+                android:endColor="@color/white"/>
+
+        </shape>
+    </item>
+</layer-list>

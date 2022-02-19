@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731865439229",
+    "project_id": "great-break-b55cb",
+    "storage_bucket": "great-break-b55cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731865439229:android:ef86d17e17628634b71794",
+        "android_client_info": {
+          "package_name": "com.example.greatbreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731865439229-phqbhi7s8hri51r7r8hs2f2kt5i0jj3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfYn6jQvtsXhS26yFSHiRdSztiZJtCTgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731865439229-phqbhi7s8hri51r7r8hs2f2kt5i0jj3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
